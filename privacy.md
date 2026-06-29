@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 # Picra — Privacy Policy
 
-**Last updated: [DATE, e.g. 29 June 2026]**
+**Last updated: [29 June 2026]**
 
 This Privacy Policy explains how **Picra** ("Picra", "we", "us") handles information when you use the
 Picra iOS app. By using the app you agree to this policy.
